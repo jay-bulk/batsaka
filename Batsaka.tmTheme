@@ -12,23 +12,23 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#00000D</string>
+				<string>#002b36</string>
 				<key>caret</key>
-				<string>#D8C0A0</string>
+				<string>#eee8d5</string>
 				<key>foreground</key>
-				<string>#9FA2C0</string>
+				<string>#839496</string>
 				<key>gutter</key>
-				<string>#388E3C</string>
+				<string>#073642</string>
 				<key>invisibles</key>
 				<string>#586e75</string>
 				<key>lineHighlight</key>
-				<string>#00001C</string>
+				<string>#1CD1FF12</string>
 				<key>misspelling</key>
-				<string>#FF3F00</string>
+				<string>#dc322f</string>
 				<key>selection</key>
-				<string>#00001C</string>
+				<string>#2c4c55</string>
 				<key>selectionBorder</key>
-				<string>#00000D</string>
+				<string>#586e75</string>
 			</dict>
 		</dict>
 
@@ -41,7 +41,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6C6F92</string>
+				<string>#586e75</string>
 			</dict>
 		</dict>
 		<dict>
@@ -107,7 +107,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#9FA2C0</string>
+				<string>#FFED99</string>
 			</dict>
 		</dict>
 		<dict>
@@ -118,7 +118,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8700</string>
+				<string>#FFDAB3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -129,7 +129,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFD800</string>
+				<string>#b58900</string>
 			</dict>
 		</dict>
 		<dict>
@@ -140,7 +140,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8700</string>
+				<string>#b58900</string>
 			</dict>
 		</dict>
 		<dict>
@@ -151,7 +151,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFD800</string>
+				<string>#FFEA8A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -162,7 +162,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFD800</string>
+				<string>#FFED99</string>
 			</dict>
 		</dict>
 		<dict>
@@ -173,7 +173,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFD800</string>
+				<string>#FFED99</string>
 			</dict>
 		</dict>
 		<dict>
@@ -184,7 +184,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8700</string>
+				<string>#b58900</string>
 			</dict>
 		</dict>
 		<dict>
@@ -195,7 +195,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8700</string>
+				<string>#FFDAB3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -217,7 +217,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8700</string>
+				<string>#FFDAB3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -239,7 +239,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFD800</string>
+				<string>#859900</string>
 			</dict>
 		</dict>
 		<dict>
@@ -261,7 +261,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8700</string>
+				<string>#FFDAB3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -272,7 +272,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8700</string>
+				<string>#FFDAB3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -316,7 +316,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8700</string>
+				<string>#FFDAB3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -338,7 +338,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8700</string>
+				<string>#FFDAB3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -360,7 +360,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8700</string>
+				<string>#FFDAB3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -404,7 +404,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8700</string>
+				<string>#FFDAB3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -441,7 +441,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8700</string>
+				<string>#FFDAB3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -452,7 +452,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8700</string>
+				<string>#FFDAB3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -463,7 +463,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8700</string>
+				<string>#FFDAB3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -485,7 +485,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8700</string>
+				<string>#FFDAB3</string>
 			</dict>
 		</dict>
 
@@ -533,7 +533,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8700</string>
+				<string>#FFDAB3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -568,7 +568,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8700</string>
+				<string>#FFDAB3</string>
 			</dict>
 		</dict>
 
@@ -581,7 +581,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8700</string>
+				<string>#FFDAB3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -605,7 +605,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8700</string>
+				<string>#FFDAB3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -640,7 +640,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8700</string>
+				<string>#FFDAB3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -651,7 +651,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8700</string>
+				<string>#FFDAB3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -684,7 +684,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8700</string>
+				<string>#FFDAB3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -695,7 +695,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFD800</string>
+				<string>#FFED99</string>
 			</dict>
 		</dict>
 		<dict>
@@ -717,7 +717,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8700</string>
+				<string>#FFDAB3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -772,7 +772,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFD800</string>
+				<string>#FFED99</string>
 			</dict>
 		</dict>
 
@@ -820,7 +820,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8700</string>
+				<string>#FFDAB3</string>
 			</dict>
 		</dict>
 		<dict>
@@ -831,7 +831,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8700</string>
+				<string>#FFDAB3</string>
 			</dict>
 		</dict>
 
@@ -903,7 +903,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFD800</string>
+				<string>#FFED99</string>
 			</dict>
 		</dict>
 		<dict>
@@ -926,7 +926,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFD800</string>
+				<string>#FFED99</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1018,7 +1018,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FF8700</string>
+				<string>#FFDAB3</string>
 			</dict>
 		</dict>
 
@@ -1031,7 +1031,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF8700</string>
+				<string>#FFDAB3</string>
 			</dict>
 		</dict>
 
@@ -1044,7 +1044,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFD800</string>
+				<string>#FF4D1A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1055,7 +1055,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFED99</string>
+				<string>#FF7F4D</string>
 			</dict>
 		</dict>
 
